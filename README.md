@@ -44,6 +44,12 @@ r2=metrics.r2_score(Ytest,Ypred)
 r2
 dt.predict([[5,6]])
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 
 # df.head()
@@ -57,6 +63,12 @@ dt.predict([[5,6]])
 # df.isnull().sum()
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475702/33109b6f-fa6e-435c-aaf0-0b5f8565b2d5)
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # After Label Encoding
 
@@ -73,6 +85,12 @@ dt.predict([[5,6]])
 # dt.predict
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475702/e7cc52f4-a0f2-43f2-8353-6a441d3af1c8)
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # plt.show()
 
