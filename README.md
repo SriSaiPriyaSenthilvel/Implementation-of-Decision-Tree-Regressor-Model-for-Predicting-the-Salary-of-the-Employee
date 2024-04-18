@@ -91,6 +91,11 @@ dt.predict([[5,6]])
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # plt.show()
 
